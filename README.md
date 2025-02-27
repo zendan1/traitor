@@ -1,7 +1,7 @@
 # Traitor
 Fist change in branch2
 Second change in brach2
-
+Third change in branch2
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
